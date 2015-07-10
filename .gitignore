@@ -1,0 +1,13 @@
+# Ignore Play! working directory #
+bin/
+logs/
+project/project
+project/target
+target
+dist
+
+.settings
+.classpath
+.project
+.cache-main
+.cache-tests

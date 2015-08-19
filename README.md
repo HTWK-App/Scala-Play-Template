@@ -1,5 +1,8 @@
 Scala-Play Template
 =================================
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/HTWK-App/Scala-Play-Template/blob/master/LICENSE)
+[![Language](https://img.shields.io/badge/language-Scala%20(2.11.7)-blue.svg)](http://www.scala-lang.org/)
+[![Framework](https://img.shields.io/badge/framework-PlayFramework%20(2.3.10)-blue.svg)](https://www.playframework.com/)
 
 This is a Template for a Microservice, written in Scala in cooperation with the Play-Framework. It will provision a REST-JSON and Linked-Data API. As Linked-Data, RDF/XML, Turtle and Notation-3 will be provided.
 
